@@ -15,3 +15,12 @@ Este exemplo demonstra o uso de vetores (arrays) para armazenar informações de
 
 5.Gerador de Tabuada   
 Um utilitário que automatiza o cálculo da tabuada. O usuário insere um número e o programa utiliza um laço de repetição (para) para calcular e exibir instantaneamente os resultados da multiplicação desse número de 1 a 10.
+
+Código 06: Calculadora de Conversão de Moedas
+Este programa permite realizar a conversão de valores entre diferentes moedas de forma dinâmica.
+Funcionalidade: O usuário insere o valor em moeda base e a taxa de câmbio atual.
+Objetivo: Facilitar cálculos de câmbio rápidos, permitindo a simulação de conversões para Dólar, Euro ou qualquer outra moeda através da entrada da taxa.
+Conceitos aplicados: Entrada e saída de dados, operadores aritméticos e manipulação de variáveis reais.
+
+Código 07: Conversor de Celsius para FahrenheitUm utilitário prático para conversão de escalas termométricas.Funcionalidade: Transforma uma temperatura fornecida em graus Celsius (°C) para a escala Fahrenheit (°F).
+Lógica de Cálculo: O programa aplica a fórmula matemática:$$F = (C \times 1.8) + 32$$Objetivo: Demonstrar o uso de precedência de operadores e precisão de ponto flutuante em lógica de programação.
